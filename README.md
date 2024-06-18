@@ -49,6 +49,9 @@ Ensure your .env file has the correct database configuration:
   DB_PASSWORD=your_database_password
   ```
 Create the database manually using the database.sql file provided.
+  ``` bash
+  database.sql
+  ```
 
 4. Run the Laravel Development Server
 To run the Laravel development server, use:
