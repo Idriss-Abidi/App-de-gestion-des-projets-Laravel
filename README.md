@@ -14,7 +14,8 @@ Ensure PHP is properly installed and working:
 2. Run the following command:
 
    ```sh
-   php -v 
+   php -v
+   ``` 
    
 If PHP is installed, this will display the PHP version.
 
@@ -23,17 +24,15 @@ If PHP is installed, this will display the PHP version.
 Ensure you have all necessary Laravel dependencies:
 
 1. Navigate to your project directory:
-  ``` sh
-cd C:\xampp\htdocs\App-de-gestion-des-projets-Laravel  
+ ``` bash
+ cd C:\xampp\htdocs\App-de-gestion-des-projets-Laravel
+ ```
 
-2. Install Composer dependencies:
+3. Install Composer dependencies:
 
   ``` sh
 composer install
-
-Install npm dependencies (if you decide to use npm later):
-  ``` sh
- npm install
+```
 
 3. Ensure Database Configuration
 Ensure your .env file has the correct database configuration:
@@ -45,14 +44,13 @@ DB_PORT=3307
 DB_DATABASE=your_database_name
 DB_USERNAME=your_database_username
 DB_PASSWORD=your_database_password
-Create and Migrate the Database
+```
 Create the database manually using the database.sql file provided.
-
 
 4. Run the Laravel Development Server
 To run the Laravel development server, use:
 
  ``` sh
 php artisan serve
-
+```
 Ensure your vendor folder and all required packages are installed. If the vendor folder is missing the necessary files, you might need to run composer install again.
