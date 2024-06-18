@@ -48,7 +48,7 @@ Ensure your .env file has the correct database configuration:
   DB_USERNAME=your_database_username
   DB_PASSWORD=your_database_password
   ```
-Create the database manually using the database.sql file provided.
+Create the database manually using the [database.sql](database.sql) file provided.
   ``` bash
   database.sql
   ```
