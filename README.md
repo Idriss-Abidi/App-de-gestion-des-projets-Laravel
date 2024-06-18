@@ -1,4 +1,4 @@
-#Verify the PHP Installation
+###Verify the PHP Installation
 Ensure PHP is properly installed and working:
 
 Open your terminal or command prompt.
