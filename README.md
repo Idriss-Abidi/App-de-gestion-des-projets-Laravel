@@ -18,18 +18,22 @@ Ensure PHP is properly installed and working:
    
 If PHP is installed, this will display the PHP version.
 
-### Check Laravel Project Setup
+### Installation
 
 Ensure you have all necessary Laravel dependencies:
 
-1. Navigate to your project directory:
+1. Clone this repository (inside the htdocs folder if you're using xampp):
   ``` bash
-  cd C:\xampp\htdocs\App-de-gestion-des-projets-Laravel
+  git clone https://github.com/Idriss-Abidi/App-de-gestion-des-projets-Laravel.git
+  ```
+
+2. Navigate to your project directory:
+  ``` bash
+  cd App-de-gestion-des-projets-Laravel
   ```
 
 3. Install Composer dependencies:
-
-  ``` sh
+  ``` bash
   composer install
   ```
 
