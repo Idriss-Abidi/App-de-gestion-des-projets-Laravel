@@ -4,6 +4,16 @@
 
 This is a project management application built with Laravel.
 
+
+## Video Demonstration
+
+Here is a video demonstration of the project:
+
+<video width="640" height="360" controls>
+  <source src="./Video Demonstration.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Installation
 
 ### Verify the PHP Installation
