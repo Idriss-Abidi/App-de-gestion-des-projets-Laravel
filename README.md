@@ -9,6 +9,20 @@ This is a project management application built with Laravel.
 
 Here is a video demonstration of the project: [Video Demonstration](Video_Demonstration.mp4)
 
+##Features 
+
+- Home Page
+![Interface](./images/homePage.png?raw=true "Title")
+
+- Personal Tasks Page
+![Interface](./images/TaskPage.png?raw=true "Title")
+
+- Projects Pages
+![Interface](./images/ProjectPage.png?raw=true "Title")
+![Interface](./images/ActionPage.png?raw=true "Title")
+
+- Profile Page
+![Interface](./images/profilPage.png?raw=true "Title")
 
 ## Installation
 
