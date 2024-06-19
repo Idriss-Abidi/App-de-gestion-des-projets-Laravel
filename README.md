@@ -19,8 +19,9 @@ Here is a video demonstration of the project: [Video Demonstration](Video_Demons
 
 - Projects Pages
 ![Interface](./images/ProjectPage.png?raw=true "Title")
+![Interface](./images/ProjectPage2.png?raw=true "Title")
+![Interface](./images/ActionPage2.png?raw=true "Title")
 ![Interface](./images/ActionPage.png?raw=true "Title")
-
 - Profile Page
 ![Interface](./images/profilPage.png?raw=true "Title")
 
