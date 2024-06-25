@@ -9,7 +9,7 @@ This is a project management application built with Laravel.
 
 Here is a video demonstration of the project: [Video Demonstration](Video_Demonstration.mp4)
 
-##Features 
+## Features 
 
 - Home Page
 ![Interface](./images/homePage.png?raw=true "Title")
